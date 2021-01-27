@@ -27,13 +27,6 @@ Follow the link to the live site, this app will run in your browser.
 
 <br>
 
-## Credits
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
 <br>
 
 ## License
