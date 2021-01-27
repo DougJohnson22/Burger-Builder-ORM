@@ -1,3 +1,9 @@
+body {
+  background-image: url("https://i.postimg.cc/C53ky6tj/bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 li {
   padding: 5px;
   margin: 5px;
